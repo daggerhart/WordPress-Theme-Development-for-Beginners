@@ -22,5 +22,11 @@ This document aims to get new WordPress developers up to speed by providing stra
 * **Bootstrap** - A CSS framework for easily making great responsive websites.
 
 
-Get started with Lesson 1: Setting Up Your Development Environment.
+## Continue
+
+1. [Setting Up Your Development Environment](1.Development-Environment.md)
+1. [Creating Themes with Underscores](2.Underscores-Theme.md)
+1. [WordPress Theme Structure At A Glance](3.Wordpress-Theme-Structure-at-a-Glance.md)
+1. [Adding Bootstrap to Underscores](4.Bootstrap-Underscores.md)
+1. [HTML, CSS and Bootstrap](5.HTML-CSS-and-Bootstrap.md)
 
