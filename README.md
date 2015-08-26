@@ -29,4 +29,5 @@ This document aims to get new WordPress developers up to speed by providing stra
 1. [WordPress Theme Structure At A Glance](3.Wordpress-Theme-Structure-at-a-Glance.md)
 1. [Adding Bootstrap to Underscores](4.Bootstrap-Underscores.md)
 1. [HTML, CSS and Bootstrap](5.HTML-CSS-and-Bootstrap.md)
+1. [Creating a Bootstrap Navbar in WordPress](6.Header-Navbar.md) 
 
